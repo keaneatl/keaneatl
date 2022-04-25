@@ -82,6 +82,26 @@
       <br /><strong>Jest</strong>
     </td>
   </tr>
+     <tr>
+        <td align="center" height="108" width="108">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+            width="48"
+            height="48"
+            alt="Ubuntu"
+          />
+          <br /><strong>Ubuntu</strong>
+        </td>
+         <td align="center" height="108" width="108">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
+            width="48"
+            height="48"
+            alt="MaterialUI"
+          />
+          <br /><strong>MaterialUI</strong>
+        </td>
+    </tr>
 </table>
   </div>
 
