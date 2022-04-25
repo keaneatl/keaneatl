@@ -101,6 +101,15 @@
           />
           <br /><strong>MaterialUI</strong>
         </td>
+         <td align="center" height="108" width="108">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+            width="48"
+            height="48"
+            alt="Visual Studio Code"
+          />
+          <br /><strong>VS Code</strong>
+        </td>
     </tr>
 </table>
   </div>
