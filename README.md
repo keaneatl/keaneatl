@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hello!
 
 <div align="justify">
-    I'm Keane, and I am sophomore majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
+    I'm Keane, and I am a sophomore majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
 </div>
 
 # 🛠 Tools and Tech I'm Currently Working With
