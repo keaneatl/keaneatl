@@ -7,7 +7,7 @@
 # 🛠 Tools and Tech I'm Currently Working With
 <div align="center">
 <img src="https://c.tenor.com/yOwKX_hMp6cAAAAd/tenor.gif" alt="Hackerman Meme" style="display:block;margin:0 auto;" />
-<table>
+<table align="center">
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -36,6 +36,15 @@
       />
       <br /><strong>JavaScript</strong>
     </td>
+     <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+        width="48"
+        height="48"
+        alt="TypeScript"
+      />
+      <br /><strong>TypeScript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
@@ -45,14 +54,16 @@
       />
       <br /><strong>React</strong>
     </td>
-    <td align="center" height="108" width="108">
+  </tr>
+     <tr>
+     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
         width="48"
         height="48"
-        alt="Firebase"
+        alt="MaterialUI"
       />
-      <br /><strong>Firebase</strong>
+      <br /><strong>MaterialUI</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -72,7 +83,16 @@
       />
       <br /><strong>Npm</strong>
     </td>
-    <td align="center" height="108" width="108">
+        <td align="center" height="108" width="108">
+          <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+            width="48"
+            height="48"
+            alt="Firebase"
+          />
+          <br /><strong>Firebase</strong>
+        </td>
+     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
         width="48"
@@ -80,36 +100,7 @@
         alt="Jest"
       />
       <br /><strong>Jest</strong>
-    </td>
-  </tr>
-     <tr>
-        <td align="center" height="108" width="108">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-            width="48"
-            height="48"
-            alt="Ubuntu"
-          />
-          <br /><strong>Ubuntu</strong>
-        </td>
-         <td align="center" height="108" width="108">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-            width="48"
-            height="48"
-            alt="MaterialUI"
-          />
-          <br /><strong>MaterialUI</strong>
-        </td>
-         <td align="center" height="108" width="108">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-            width="48"
-            height="48"
-            alt="Visual Studio Code"
-          />
-          <br /><strong>VS Code</strong>
-        </td>
+     </td>
     </tr>
 </table>
   </div>
