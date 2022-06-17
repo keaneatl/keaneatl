@@ -72,7 +72,7 @@
         height="48"
         alt="Git"
       />
-      <br /><strong>Git/Github</strong>
+      <br /><strong>Git</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
