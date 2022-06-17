@@ -6,7 +6,6 @@
 
 # 🛠 Tools and Tech I'm Currently Working With
 <div align="center">
-<img src="https://c.tenor.com/yOwKX_hMp6cAAAAd/tenor.gif" alt="Hackerman Meme" style="display:block;margin:0 auto;" />
 <table align="center">
   <tr>
     <td align="center" height="108" width="108">
