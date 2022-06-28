@@ -4,9 +4,9 @@
     I'm Keane, and I am a sophomore majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
 </div>
 
-# 🛠 Tools and Tech I'm Currently Working With
-<div align="center">
-<table align="center">
+# 🛠 Tools and Tech 
+<div>
+<table>
   <tr>
     <td align="center" height="108" width="108">
       <img
@@ -112,6 +112,48 @@
     </tr>
 </table>
   </div>
+  
+# 💻 Currently Learning
+<table>
+<tr>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
+        width="48"
+        height="48"
+        alt="C#"
+      />
+      <br /><strong>C#</strong>
+  </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
+        width="48"
+        height="48"
+        alt=".NET Core"
+      />
+      <br /><strong>.NET Core</strong>
+  </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+        width="48"
+        height="48"
+        alt=".NET"
+      />
+      <br /><strong>.NET</strong>
+  </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+        width="48"
+        height="48"
+        alt="Microsoft SQL Server"
+      />
+      <br /><strong>Microsoft SQL Server</strong>
+  </td>
+</tr>
+</table>
 
 # 🤝Socials
 <a href="https://facebook.com/keaneatl" target="_blank">
