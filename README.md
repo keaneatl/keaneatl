@@ -139,9 +139,9 @@
         src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ASP.NET/vector/logo_ASP.NET_RGB_square-negative.svg"
         width="48"
         height="48"
-        alt="ASP.NET"
+        alt="ASP .NET"
       />
-      <br /><strong>ASP.NET</strong>
+      <br /><strong>ASP .NET</strong>
   </td>
   <td align="center" height="108" width="108">
       <img
