@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hello!
 
 <div align="justify">
-    I'm Keane, and I am a sophomore majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
+    I'm Keane, and I am a junior majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
 </div>
 
 # 🛠 Tools and Tech 
@@ -127,21 +127,21 @@
   </td>
   <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
-        width="48"
-        height="48"
-        alt=".NET Core"
-      />
-      <br /><strong>.NET Core</strong>
-  </td>
-  <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg"
+        src="https://github.com/dotnet/brand/blob/defe0408e765b48223a434a0d9a94213edc062f8/logo/dotnet-logo.svg"
         width="48"
         height="48"
         alt=".NET"
       />
       <br /><strong>.NET</strong>
+  </td>
+  <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/campusMVP/dotnetLogoPack/blob/main/ASP.NET/vector/logo_ASP.NET_RGB_square-negative.svg"
+        width="48"
+        height="48"
+        alt="ASP.NET"
+      />
+      <br /><strong>ASP.NET</strong>
   </td>
   <td align="center" height="108" width="108">
       <img
