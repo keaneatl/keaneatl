@@ -1,8 +1,7 @@
 # 🙋‍♂️ Hello!
 
 <div align="justify">
-    I'm Keane, and I am a junior majoring in Information Technology. Currently, I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies. I use my passion for said technologies to hack together projects that help me solve real-life problems, and better my skills so I can build or contribute to bigger and more complex apps in the future!
-</div>
+    I'm Keane, and I am a junior Information Technology student. Currently, I am a Google Student Developer Clubs Lead in my campus. I work with other student developers and other passionate people to build projects that directly impact our community, and projects that help us learn new technologies. I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies.
 
 # 🛠 Tools and Tech 
 <div>
