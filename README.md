@@ -1,7 +1,7 @@
 # 🙋‍♂️ Hello!
 
 <div align="justify">
-    I'm Keane, and I am a junior Information Technology student. Currently, I am a Google Student Developer Clubs Lead in my campus. I work with other student developers and other passionate people to build projects that directly impact our community, and projects that help us learn new technologies. I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies.
+    I'm Keane, and I am a senior Information Technology student majoring in AI. Currently, I am a Microsoft Learn Student Ambassador in my campus. I work with other student developers and other passionate people to build projects that directly impact our community, and projects that help us learn new technologies. I'm interested in becoming a software developer so I spend most of my free time learning about development tools, particularly web technologies.
     
 # ⌨️ Languages
 <table>
