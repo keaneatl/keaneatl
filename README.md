@@ -189,19 +189,13 @@
        alt="Facebook" 
   />
 </a>
-<a href="https://twitter.com/techbykeane" target="_blank">
+<a href="https://twitter.com/keanedev" target="_blank">
   <img 
        src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" 
        alt="Twitter" 
   />
 </a>
-<a href="mailto:keanetolentinoo@gmail.com" target="_blank">
-  <img 
-       src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-       alt="Gmail" 
-  />
-</a>
-<a href="mailto:kyntltntn@protonmail.com" target="_blank">
+<a href="mailto:keane.office@proton.me" target="_blank">
   <img 
        src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" 
        alt="ProtonMail" 
