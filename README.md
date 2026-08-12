@@ -1,186 +1,76 @@
 # 🙋‍♂️ Hello!
 
 <div align="justify">
-    I'm Keane, and I am an Information Technology graduate who majored in AI. I've worked with other student developers and other passionate people to build projects that directly impact our community, and projects that help us learn new technologies through programs such as Google Developer Student Clubs, Microsoft Learn Student Ambassadors, and many more. Currently, I'm a Product Engineer at KadaKareer and I spend most of my free time by indulging in everything Computer Science, Volunteer Work, and Formula 1 🏎️ 
+    Based in Metro Manila, Philippines, I build dependable product experiences and the cloud infrastructure behind them. My work spans full-stack web development, AWS platform engineering, DevOps automation, and distributed systems.
     
-# ⌨️ Languages
+# ⌨️ What I work with
+
 <table>
-    <tr>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-            width="48"
-            height="48"
-            alt="HTML"
-            />
-            <br /><strong>HTML5</strong>
-        </td>    
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-            width="48"
-            height="48"
-            alt="CSS"
-            />
-            <br /><strong>CSS3</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-            width="48"
-            height="48"
-            alt="JavaScript"
-            />
-            <br /><strong>JavaScript</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-            width="48"
-            height="48"
-            alt="TypeScript"
-            />
-            <br /><strong>TypeScript</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-            width="48"
-            height="48"
-            alt="C"
-            />
-            <br /><strong>C</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
-            width="48"
-            height="48"
-            alt="C#"
-            />
-            <br /><strong>C#</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-            width="48"
-            height="48"
-            alt="Python"
-            />
-            <br /><strong>Python</strong>
-        </td>
-    </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /><br /><strong>C#</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br /><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br /><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br /><strong>Python</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br /><strong>HTML5</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br /><strong>CSS3</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" /><br /><strong>Angular</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br /><strong>React</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br /><strong>Node.js</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="48" height="48" alt="NestJS" /><br /><strong>NestJS</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" /><br /><strong>.NET</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" /><br /><strong>AWS</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br /><strong>Azure</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br /><strong>Docker</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /><br /><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" /><br /><strong>Terraform</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br /><strong>Jenkins</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" /><br /><strong>GitHub Actions</strong>
+    </td>
+  </tr>
 </table>
 
-# ⚛️ Frameworks
-<table>
-    <tr>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://astro.build/assets/press/logomark-light.png"
-            width="48"
-            height="48"
-            alt="Astro"
-            />
-            <br /><strong>Astro</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-            width="48"
-            height="48"
-            alt="React"
-            />
-            <br /><strong>React</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            width="48"
-            height="48"
-            alt="Next.js"
-            />
-            <br /><strong>Next.js</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://github.com/dotnet/brand/blob/defe0408e765b48223a434a0d9a94213edc062f8/logo/dotnet-logo.svg"
-            width="48"
-            height="48"
-            alt="ASP .NET Core"
-            />
-            <br /><strong>ASP.NET Core</strong>
-        </td>
-    </tr>
-</table>
+# 📚 Publications
 
-# 🛠 Libraries, Tools and Technologies 
-<table>
-    <tr>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-            width="48"
-            height="48"
-            alt="MaterialUI"
-            />
-            <br /><strong>MaterialUI</strong>
-        </td>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-            width="48"
-            height="48"
-            alt="Git"
-            />
-            <br /><strong>Git</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"
-            width="48"
-            height="48"
-            alt="npm"
-            />
-            <br /><strong>npm</strong>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
-            width="48"
-            height="48"
-            alt="Firebase"
-            />
-            <br /><strong>Firebase</strong>
-        </td>
-        </td>
-        <td align="center" height="108" width="108">
-            <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
-            width="48"
-            height="48"
-            alt="Jest"
-            />
-            <br /><strong>Jest</strong>
-        </td>
-    </tr>
-</table>
-  
-# 🗄️ Databases
-<table>
-    <tr>
-        <td align="center" height="108" width="108">
-          <img
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-            width="48"
-            height="48"
-            alt="Microsoft SQL Server"
-          />
-          <br /><strong>Microsoft SQL Server</strong>
-        </td>
-    </tr>
-</table>
+Tolentino, K. A. D., et al. (2024). *YODASORT: a YOLO-based level-zero advanced driver assistance system (ADAS) for traffic object detection, tracking, and collision warning.* Proceedings of SPIE. [DOI: 10.1117/12.3067534](https://doi.org/10.1117/12.3067534)
 
 # 🤝Socials
 <a href="https://facebook.com/keaneatl" target="_blank">
